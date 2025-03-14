@@ -12,7 +12,7 @@ function theme_enqueue_styles() {
 
 add_image_size( 'homepage-thumb', 400, 150, true ); //300 pixels wide
 add_image_size( 'insideBanner-size', 2400, 800, true ); // 220 pixels wide by 180 pixels tall, hard crop mode
-add_image_size( 'homepageBanner-size', 4000, 2000, true ); // 220 pixels wide by 180 pixels tall, hard crop mode
+add_image_size( 'homepageBanner-size', 2400, 1200, true ); // 220 pixels wide by 180 pixels tall, hard crop mode
 
 add_image_size( 'personnel-size', 400, 9999); // 220 pixels wide by 180 pixels tall, hard crop mode
 
