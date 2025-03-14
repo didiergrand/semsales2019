@@ -9607,3 +9607,11 @@ footer#footer .ivabh-current-day {
 .iva_bh_shortcode {
   margin-right: 200px !important;
 }
+.liens_utiles-widget a{
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+}
+.liens_utiles-widget a img{
+  width: 64px;
+}
