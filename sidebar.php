@@ -10,6 +10,7 @@
 
 <?php if ( is_active_sidebar( 'sidebar-1' ) ) : ?>
 	<aside id="secondary" class="sidebar widget-area">
+	<h2 class="widget-title">Liens utiles</h2>
 		<div class="liens_utiles-widget">
 			<div class="liens_utiles">
 				<?php
