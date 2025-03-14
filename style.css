@@ -1,0 +1,13 @@
+/*
+Theme Name: Twenty Sixteen Child
+Author: Didier Grand
+Author URI: http://digitalgarage.ch
+Version: 1.0
+Template:    twentysixteen
+Text Domain: twentysixteen-child
+
+*//*
+import css
+*/
+@import 'css/base.css';
+@import 'css/front-page.css';
