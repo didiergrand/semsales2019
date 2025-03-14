@@ -9498,6 +9498,7 @@ footer#footer .ivabh-current-day {
 .homepage-content__actus-pilier {
   top: -50px;
   position: relative;
+  display: flex;
 }
 
 .homepage-content__actus-pilier .site-main {
