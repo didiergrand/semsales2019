@@ -9613,7 +9613,8 @@ footer#footer .ivabh-current-day {
 .liens_utiles-widget a{
   display: flex;
   flex-direction: row;
-  gap: 16px;
+  gap: 16px;  
+  align-items: center;
 }
 .liens_utiles-widget a img{
   width: 64px;
