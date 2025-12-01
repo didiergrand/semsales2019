@@ -27,7 +27,7 @@ get_header(); ?>
  <?php } else {?>
 
    <div class="post-thumbnail inside-banner">
-     <img width="1200" height="270" src="/wp-content/uploads/2019/11/photos_commune-13-crop-e1603310756117-1200x300.jpg" class="attachment-insideBanner-size size-insideBanner-size wp-post-image" alt="">
+     1-<img width="1200" height="270" src="/wp-content/uploads/2019/11/photos_commune-13-crop-e1603310756117-1200x300.jpg" class="attachment-insideBanner-size size-insideBanner-size wp-post-image" alt="">
    </div>
 	<?php } ?>
 <?php endwhile; ?>
