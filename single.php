@@ -17,7 +17,7 @@
 <?php } else {?>
 
   <div class="post-thumbnail inside-banner">
-    5-<img width="1200" height="270" src="/wp-content/uploads/2019/11/photos_commune-13-crop-e1603310756117-1200x300.jpg" class="attachment-insideBanner-size size-insideBanner-size wp-post-image" alt="">
+    5-<img width="1200" height="270" src="/wp-content/themes/twentysixteen-child/images/bureau-communal-semsales.jpg" class="attachment-insideBanner-size size-insideBanner-size wp-post-image" alt="">
   </div>
 
  <?php } ?>
